@@ -1,5 +1,5 @@
 a=50
-b=30
+b=60
 c=30
-if a<b 
+if a<=b 
 print("False")
